@@ -6,4 +6,4 @@ Language Used - Java Core ( Swing &amp; Socket Programming )
 IDE Used - Netbeans
 
 # Screenshot
-<img src="https://github.com/Harshita2001/Chatting-Application/blob/main/Screenshot.png" width="650" height="400" />
+<img src="https://github.com/Jaya17199/WeChat/blob/master/Screenshot.png" width="650" height="400" />
